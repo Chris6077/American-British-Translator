@@ -1,2 +1,1 @@
-# American-British-Translator
-Translate between us and gb cultures
+# [Quality Assurance Projects - American / British Translator](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/american-british-translator)
